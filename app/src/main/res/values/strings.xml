@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Otp Login Demo</string>
+    <string name="login">LogIn</string>
+    <string name="termstext">By clicking start,you agree to our Terms and Conditions.</string>
+    <string name="enterMobileNo">Enter your phone number</string>
+    <string name="login_txt">Login with your phone number</string>
+    <string name="enterOtp">Enter OTP</string>
+    <string name="verify">Verify Phone Number</string>
+</resources>
